@@ -24,7 +24,7 @@ const Projects = () => {
       highlights: ['Secure authentication system', 'Optimized database queries', 'Real-time updates'],
       links: {
         live: 'https://chat.shoarya.dev',
-        github: 'https://github.com/shoarya/chat-app',
+        github: 'https://github.com/Shoarya69/chat_app',
         demo: 'https://demo.shoarya.dev',
       },
     },
@@ -45,7 +45,7 @@ const Projects = () => {
       highlights: ['End-to-end payment flow', 'Secure transaction handling', 'Real-time status updates'],
       links: {
         live: 'https://payments.shoarya.dev',
-        github: 'https://github.com/shoarya/payment-gateway',
+        github: 'https://github.com/Shoarya69/payment_gatway',
         demo: 'https://demo.shoarya.dev',
       },
     },

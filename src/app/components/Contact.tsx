@@ -41,7 +41,7 @@ const Contact = () => {
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/shoarya',
+      href: 'https://github.com/Shoarya69',
     },
     {
       icon: Linkedin,
@@ -51,7 +51,7 @@ const Contact = () => {
     {
       icon: ExternalLink,
       label: 'Portfolio',
-      href: 'https://shoarya.dev',
+      href: 'https://portfolio-site-syhg.onrender.com/',
     },
   ];
 
