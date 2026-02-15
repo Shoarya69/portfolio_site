@@ -51,7 +51,7 @@ const Contact = () => {
     {
       icon: ExternalLink,
       label: 'Portfolio',
-      href: 'https://portfolio-site-syhg.onrender.com/',
+      href: 'https://shoarya.dpdns.org/',
     },
   ];
 

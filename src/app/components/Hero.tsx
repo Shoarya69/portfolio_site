@@ -8,7 +8,7 @@ const Hero = () => {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/shoarya', label: 'GitHub' },
     { icon: Linkedin, href: 'https://linkedin.com/in/shoarya-bansal-6972a7273', label: 'LinkedIn' },
-    { icon: ExternalLink, href: 'https://portfolio-site-syhg.onrender.com/', label: 'Portfolio' },
+    { icon: ExternalLink, href: 'https://shoarya.dpdns.org/', label: 'Portfolio' },
     { icon: Mail, href: 'mailto:shoorayabansal@gmail.com', label: 'Email' },
   ];
 
