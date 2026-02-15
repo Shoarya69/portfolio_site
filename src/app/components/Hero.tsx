@@ -7,7 +7,7 @@ const Hero = () => {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/shoarya', label: 'GitHub' },
     { icon: Linkedin, href: 'https://linkedin.com/in/shoarya-bansal-6972a7273', label: 'LinkedIn' },
-    { icon: ExternalLink, href: 'https://shoarya.dev', label: 'Portfolio' },
+    { icon: ExternalLink, href: 'https://portfolio-site-syhg.onrender.com/', label: 'Portfolio' },
     { icon: Mail, href: 'mailto:shoorayabansal@gmail.com', label: 'Email' },
   ];
 
@@ -154,7 +154,7 @@ const Hero = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-blue-600 via-purple-600 to-cyan-500 p-1">
                 <div className="w-full h-full rounded-full bg-background p-2">
                   <img
-                    src="https://ui-avatars.com/api/?name=Shoarya+Bansal&size=400&background=2563eb&color=fff&bold=true"
+                    src="src/app/photo/Photo.jpg"
                     alt="Shoarya Bansal"
                     className="w-full h-full rounded-full object-cover"
                   />
