@@ -2,6 +2,7 @@ import { motion } from 'motion/react';
 import { Github, Linkedin, Mail, ExternalLink } from 'lucide-react';
 import { Button } from './ui/button';
 import ParticleBackground from './ParticleBackground';
+import photo from "../../assets/Photo.jpg";
 
 const Hero = () => {
   const socialLinks = [
@@ -154,7 +155,7 @@ const Hero = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-blue-600 via-purple-600 to-cyan-500 p-1">
                 <div className="w-full h-full rounded-full bg-background p-2">
                   <img
-                    src="src/app/photo/Photo.jpg"
+                    src={photo}
                     alt="Shoarya Bansal"
                     className="w-full h-full rounded-full object-cover"
                   />
