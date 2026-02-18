@@ -68,7 +68,7 @@ const Hero = () => {
               transition={{ delay: 0.2 }}
             >
               <p className="text-lg text-muted-foreground mb-2">Hello, I'm</p>
-              <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-cyan-500 bg-clip-text text-transparent">
+              <h1 className="text-6xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-cyan-500 bg-clip-text text-transparent p-3">
                 Shoarya Bansal
               </h1>
             </motion.div>
