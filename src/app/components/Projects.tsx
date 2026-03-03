@@ -49,6 +49,33 @@ const Projects = () => {
         demo: 'https://demo.shoarya.dev',
       },
     },
+    {
+      id: 3,
+      title: 'Nordic AI Chat Application',
+      subtitle: 'Async Groq API Integration with FastAPI',
+      description:
+        'A modern full-stack AI chat application built with React and FastAPI using Groq’s LLaMA3 model. Designed with a clean Nordic UI and microservice-inspired backend architecture.',
+      image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhaSUyMGNoYXRib3R8ZW58MXx8fHwxNzEwMjAxMTN8MA&ixlib=rb-4.1.0&q=80&w=1080',
+      techStack: ['FastAPI', 'React', 'TypeScript', 'Groq API', 'TailwindCSS', 'Vite'],
+      features: [
+        'Real-time AI chat interaction',
+        'Fully async FastAPI backend',
+        'Groq LLaMA3 model integration',
+        'Typing indicator with dynamic state handling',
+        'Clean REST API gateway structure',
+      ],
+      highlights: [
+        'Microservice-style backend design',
+        'Non-blocking async AI processing',
+        'Modern Nordic minimalist UI',
+        'Production-ready architecture with CORS + env management',
+      ],
+      links: {
+        live: 'https://your-live-domain.com',
+        github: 'https://github.com/Shoarya69/ai_integration',
+        demo: 'https://your-demo-link.com',
+      },
+    }
   ];
 
   const containerVariants = {
