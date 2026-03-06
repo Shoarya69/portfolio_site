@@ -1,4 +1,4 @@
-import { Heart } from 'lucide-react';
+import { Heart,Code,Terminal } from 'lucide-react';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -53,7 +53,7 @@ const Footer = () => {
         <div className="mt-8 pt-8 border-t text-center">
           <p className="text-sm text-muted-foreground flex items-center justify-center gap-2">
             © {currentYear} Shoarya Bansal. Made with{' '}
-            <Heart className="w-4 h-4 text-red-500 fill-red-500" /> by Shoarya Bansal
+              <Terminal className=" text-green-500"/> by Shoarya Bansal
           </p>
         </div>
       </div>

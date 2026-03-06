@@ -15,7 +15,7 @@ export default function App() {
   return (
     <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
       <SEO />
-      <div className="min-h-screen bg-background text-foreground">
+      <div className="min-h-screen w-full bg-background text-foreground">
         <Navigation />
         <main>
           <Hero />
